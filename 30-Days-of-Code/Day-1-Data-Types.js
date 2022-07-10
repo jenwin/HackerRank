@@ -41,7 +41,6 @@
 // You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above and reading input from stdin.
 
 // Answer
-
 // Declare second integer, double, and String variables.
 // Read and save an integer, double, and String to your variables.
 var i2 = +(readLine());
